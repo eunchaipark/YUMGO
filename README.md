@@ -7,6 +7,11 @@
 Oracle DB와 JDBC를 연동하여 데이터를 실시간으로 조회하고, **내부 DB에 레시피가 없을 경우 웹 검색으로 대체**하는 기능도 제공합니다.
 
 ---
+## 시연영상
+
+https://github.com/user-attachments/assets/be4bf7d9-a22f-43fc-8048-1ddf73ceea89
+
+
 
 ## 프로젝트 목적
 
@@ -152,6 +157,9 @@ for row in root.findall('.//row'):
     writer.writerow([...])  # 주요 레시피 정보 추출
 
 ```
+## 팀원 후기
+![image](https://github.com/user-attachments/assets/530380b3-228a-4fe7-b2a2-2c45209b4a7d)
+
 
 ## 📌 한 줄 요약
 
